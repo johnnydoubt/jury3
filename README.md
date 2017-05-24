@@ -67,7 +67,7 @@ MOHAMED :
 * Projet perso : http://k-achach.com/
 
 OKBA :
-* Portfolio :
+* Portfolio : https://acceleratorlastorder.github.io/portfolio/
 * Projet perso : https://acceleratorlastorder.github.io/drone-project/site/back/front/index.html
 
 RYHAD :
