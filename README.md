@@ -72,7 +72,7 @@ OKBA :
 * Projet perso : https://acceleratorlastorder.github.io/drone-project/site/back/front/index.html
 
 RYHAD :
-* Portfolio :
+* Portfolio : https://www.ryhad.com/
 * Projet perso : http://generateur-citations.surge.sh/
 
 SAMUEL :
