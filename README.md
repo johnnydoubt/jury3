@@ -10,9 +10,8 @@ CESAR :
 * Portfolio :
 * Projet perso : https://dvilsalmon.000webhostapp.com
 
-
 ELISE :
-* Portfolio :
+* Portfolio : http://www.elisebrodin.com/
 * Projet perso : www.neskoh.com
 
 FELIX :
