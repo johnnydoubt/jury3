@@ -7,8 +7,8 @@ CAMILLE :
 * Projet perso : https://cams03.github.io/rl_auto/
 
 CESAR :
-* Portfolio :
-* Projet perso : https://dvilsalmon.000webhostapp.com
+* Portfolio :    https://johnnydoubt.github.io/portfolio-CT
+* Projet perso : http://dvilsalmon-sophrologue.uphero.com/
 
 
 ELISE :
