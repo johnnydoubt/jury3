@@ -43,7 +43,7 @@ JONATHAN :
 * Projet perso : https://neoflake.github.io/Breakout/ 
 
 JULIEN :
-* Portfolio :
+* Portfolio : http://pongjs.esy.es/
 * Projet perso : http://edith-darasse.com/
 
 KEVIN :
