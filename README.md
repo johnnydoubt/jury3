@@ -22,8 +22,8 @@ FODIL :
 * Portfolio :
 * Projet perso : 
 
-IBNI :
-* Portfolio :
+IBNI-YAMINE :
+* Portfolio : https://nejimaru.github.io/portfolio/
 * Projet perso : http://ibnichabane.com/
 
 JAMIL :
