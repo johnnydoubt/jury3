@@ -48,7 +48,7 @@ JULIEN :
 
 KEVIN :
 * Portfolio : http://kevin-castejon.esy.es/
-* Projet perso : https://pacific-mountain-79482.herokuapp.com/
+* Projet perso : https://demoscript.herokuapp.com/ 
 
 LAURENE :
 * Portfolio :
