@@ -7,7 +7,7 @@ CAMILLE :
 * Projet perso : https://cams03.github.io/rl_auto/
 
 CESAR :
-* Portfolio :
+* Portfolio : https://johnnydoubt.github.io/portfolio-CT
 * Projet perso : https://dvilsalmon.000webhostapp.com
 
 ELISE :
