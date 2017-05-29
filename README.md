@@ -27,7 +27,7 @@ IBNI :
 * Projet perso : http://ibnichabane.com/
 
 JAMIL :
-* Portfolio :
+* Portfolio :  https://jrahou.fr/ et support presentation: https://2hill.github.io/juryfinal/
 * Projet perso : https://www.vcbiverois.fr/
 
 JEAN-JACQUES  :
