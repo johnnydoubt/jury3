@@ -87,5 +87,5 @@ SYLVAIN :
 * Projet perso : https://smontel.github.io/siJolie/
 
 VALENTIN :
-* Portfolio :
+* Portfolio : https://valdiss.github.io/portfolio/index.html
 * Projet perso : https://valdiss.github.io/build-TreAngular/
