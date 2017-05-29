@@ -15,12 +15,12 @@ ELISE :
 * Projet perso : www.neskoh.com
 
 FELIX :
-* Portfolio :
-* Projet perso :
+* Portfolio : https://glosl.github.io/portfolio/
+* Projet perso : http://lesemplettes.pe.hu/
 
 FODIL :
 * Portfolio :
-* Projet perso :
+* Projet perso : 
 
 IBNI :
 * Portfolio :
@@ -47,7 +47,7 @@ JULIEN :
 * Projet perso : http://edith-darasse.com/
 
 KEVIN :
-* Portfolio :
+* Portfolio : http://kevin-castejon.esy.es/
 * Projet perso : https://pacific-mountain-79482.herokuapp.com/
 
 LAURENE :
@@ -79,7 +79,7 @@ SAMUEL :
 * Projet perso : http://erika-patisserie.esy.es/
 
 SOPHIE :
-* Portfolio :
+* Portfolio : https://martelsophie.github.io/portfolio-martel-sophie/
 * Projet perso : https://martelsophie.github.io/L-Atelier-de-Picoulette/
 
 SYLVAIN :
